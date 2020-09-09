@@ -1,0 +1,9 @@
+﻿  main.c
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(20): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(22): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(68): warning C4018: “<”: 有符号/无符号不匹配
+d:\python_code\pygamel_v2.0\txt_wr\txt_wr\main.c(72): warning C4018: “<”: 有符号/无符号不匹配
+  txt_wr.vcxproj -> D:\python_code\pygamel_v2.0\txt_wr\Debug\txt_wr.exe
+  txt_wr.vcxproj -> D:\python_code\pygamel_v2.0\txt_wr\Debug\txt_wr.pdb (Partial PDB)
